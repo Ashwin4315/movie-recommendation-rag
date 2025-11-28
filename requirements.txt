@@ -1,8 +1,8 @@
 streamlit
+sentence-transformers
 chromadb
-pandas
-numpy
-tqdm
 groq
-langchain
-langchain-community
+python-dotenv
+pandas
+kagglehub
+numpy
