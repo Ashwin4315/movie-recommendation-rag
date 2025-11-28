@@ -1,0 +1,8 @@
+streamlit
+chromadb
+pandas
+numpy
+tqdm
+groq
+langchain
+langchain-community
